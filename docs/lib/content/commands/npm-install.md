@@ -170,6 +170,7 @@ into a tarball (b).
     npm install dtrace-provider --save-optional
     npm install readable-stream --save-exact
     npm install ansi-regex --save-bundle
+    npm install coloredcli
     ```
 
     **Note**: If there is a file or folder named `<name>` in the current
@@ -193,6 +194,7 @@ into a tarball (b).
     npm install jquery2@npm:jquery@2
     npm install jquery3@npm:jquery@3
     npm install npa@npm:npm-package-arg
+    npm install coloredcli
     ```
 
 * `npm install [<@scope>/]<name>@<tag>`:
